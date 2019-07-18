@@ -1,0 +1,1 @@
+# Django Haystack + Elasticsearch + Autocomplete + Faceting
