@@ -1,5 +1,6 @@
 # Django Haystack + Elasticsearch + Autocomplete + Faceting
 
+
 Installation
 
 1.Download and Unzip the files
