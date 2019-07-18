@@ -1,4 +1,5 @@
-# Django Haystack + Elasticsearch + Autocomplete + Faceting
+# DB Explorer 
+# Implemetation with Django Haystack + Elasticsearch
 
 
 Installation
