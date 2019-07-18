@@ -2,7 +2,7 @@
 # Implemetation with Django Haystack + Elasticsearch
 
 Data set is from https://www.kaggle.com/orgesleka/used-cars-database 
-370.000 cars - auto.csv is cleaned( from the rubish data, dublicates) and adobpted for the importing to the sqlite database
+370.000 cars - autos_without_dublicates.csv (in data_set folder) is cleaned( from the rubish data, dublicates) and adobpted for the importing to the sqlite database
 
 
 Installation
