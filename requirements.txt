@@ -1,4 +1,4 @@
-Django==1.10.5
+Django==1.11.29
 django-haystack==2.5.1
 elasticsearch==5.0.1
 olefile==0.44
